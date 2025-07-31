@@ -1,14 +1,14 @@
-## Unity Developer
 
-**Unity-разработчик** с 1.5+ годами опыта (07.2025).
+![UnityDev](https://img.shields.io/badge/-Unity--developer-0066CC?style=for-the-badge)&nbsp;&nbsp;&nbsp; 
+![1.5+](https://img.shields.io/badge/-1.5%2B%20years-0066CC?style=for-the-badge)&nbsp;&nbsp;&nbsp;
+![Open for work](https://img.shields.io/badge/-Open%20for%20work-darkgreen?style=for-the-badge)&nbsp;&nbsp;&nbsp;
 
 
 ---
 
-## Технологии
 
 <details>
-    <summary><strong>🟢 РАЗВЕРНУТЬ</strong></summary>
+    <summary>🟢 Технологии (развернуть)</summary>
 
 ---
 
@@ -49,10 +49,8 @@
 
 ---
 
-## Опыт
-
 <details>
-    <summary><strong>🟢 РАЗВЕРНУТЬ</strong></summary>
+    <summary>🟢 Опыт (развернуть)</summary>
 
 ---
 
@@ -221,5 +219,3 @@
 - *Участвовал в 2 очень мелких начинающих инди-командах*
 
 </details>
-
----
