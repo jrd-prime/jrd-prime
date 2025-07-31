@@ -2,12 +2,55 @@
 
 **Unity-разработчик** с 1.5+ годами опыта (07.2025).
 
+
 ---
 
-## Опыт работы
+## Технологии
 
 <details>
-    <summary><strong>РАЗВЕРНУТЬ</strong></summary>
+    <summary><strong>🟢 РАЗВЕРНУТЬ</strong></summary>
+
+![Language](https://img.shields.io/badge/-Language-white?style=flat)&nbsp;&nbsp;&nbsp;
+![C#](https://img.shields.io/badge/-C%23-0066CC?style=flat&logo=c-sharp)
+
+![Unity](https://img.shields.io/badge/-Unity-FFF?style=flat)&nbsp;&nbsp;&nbsp;
+![UI Toolkit](https://img.shields.io/badge/-UI%20Toolkit-0066CC?style=flat)
+![Behaviour Graph](https://img.shields.io/badge/-Behaviour%20Graph-0066CC?style=flat)
+![Animator](https://img.shields.io/badge/-Animator-0066CC?style=flat)
+![Visual Effect Graph](https://img.shields.io/badge/-Visual%20Effect%20Graph-0066CC?style=flat)
+![Shader Graph](https://img.shields.io/badge/-Shader%20Graph-0066CC?style=flat)
+![DOTS](https://img.shields.io/badge/-Unity%20DOTS-0066CC?style=flat)
+![etc](https://img.shields.io/badge/-...-0066CC?style=flat)
+
+![IoC](https://img.shields.io/badge/-IoC-FFF?style=flat)&nbsp;&nbsp;&nbsp;
+![VContainer](https://img.shields.io/badge/-VContainer-0066CC?style=flat)
+![Zenject](https://img.shields.io/badge/-Zenject-0066CC?style=flat)
+
+![Messaging](https://img.shields.io/badge/-Messaging-FFF?style=flat)&nbsp;&nbsp;&nbsp;
+![MessagePipe](https://img.shields.io/badge/-MessagePipe-0066CC?style=flat)
+![SignalBus](https://img.shields.io/badge/-SignalBus-0066CC?style=flat)
+
+![Async/React](https://img.shields.io/badge/-Async/React-FFF?style=flat)&nbsp;&nbsp;&nbsp;
+![UniTask](https://img.shields.io/badge/-UniTask-0066CC?style=flat)
+![R3](https://img.shields.io/badge/-R3-0066CC?style=flat)
+
+![Serialization](https://img.shields.io/badge/-Serialization-FFF?style=flat)&nbsp;&nbsp;&nbsp;
+![MessagePack](https://img.shields.io/badge/-MessagePack-0066CC?style=flat)
+
+![Animations](https://img.shields.io/badge/-Animations-FFF?style=flat)&nbsp;&nbsp;&nbsp;
+![DOTween](https://img.shields.io/badge/-DOTween-0066CC?style=flat)
+
+![Architecture](https://img.shields.io/badge/-Architecture-FFF?style=flat)&nbsp;&nbsp;&nbsp;
+![OOP](https://img.shields.io/badge/-OOP-0066CC?style=flat)
+![ECS](https://img.shields.io/badge/-ECS-0066CC?style=flat)
+</details>
+
+---
+
+## Опыт
+
+<details>
+    <summary><strong>🟢 РАЗВЕРНУТЬ</strong></summary>
 
 ---
 
@@ -30,7 +73,7 @@
 <br />
 
 <details>
-    <summary>Примеры выполненных/выполняемых задач</summary>
+    <summary>🟢 Примеры выполненных/выполняемых задач</summary>
 
 - AI-поведение на UnityBehaviourGraph (патрулирование, обнаружение, преследование, атака)
 - Более сложное AI-поведение (взаимодействие с окружением и системами)
@@ -68,7 +111,7 @@
 <br />
 
 <details>
-  <summary><strong>Примеры выполненных/выполняемых задач </strong></summary>
+  <summary><strong>🟢 Примеры выполненных/выполняемых задач </strong></summary>
 
 - Создание интерфейса с помощью UI Toolkit
 - Использование системы сообщений MessagePipe
@@ -107,7 +150,7 @@
 для выживания.*
 
 <details>
-  <summary><strong>Скриншот</strong></summary>
+  <summary><strong>🟢 Скриншот</strong></summary>
 
 ![](Screenshot_11.png)
 </details>
@@ -115,7 +158,7 @@
 <br />
 
 <details>
-<summary><strong>Примеры выполненных/выполняемых задач</strong></summary>
+<summary><strong>🟢 Примеры выполненных/выполняемых задач</strong></summary>
 
 - Создание интерфейса и меню с помощью UI Toolkit
 - Анимации на DOTween
@@ -150,7 +193,7 @@
 <br />
 
 <details>
-<summary><strong>Примеры выполненных/выполняемых задач</strong></summary>
+<summary><strong>🟢 Примеры выполненных/выполняемых задач</strong></summary>
 
 - Создание интерфейса и меню с помощью UI Toolkit
 - Анимации на DOTween
@@ -167,7 +210,6 @@
 - *Изучал Unity DOTS, ECS Native и другие технологии*
 - *Создавал мелкие прототипы используя изучаемые технологии*
 - *Участвовал в 2 очень мелких начинающих инди-командах*
-
 
 </details>
 
