@@ -1,7 +1,6 @@
-
-![UnityDev](https://img.shields.io/badge/-Unity--developer-0066CC?style=for-the-badge)&nbsp;&nbsp;&nbsp; 
+![UnityDev](https://img.shields.io/badge/-Unity--developer-0066CC?style=for-the-badge)&nbsp;&nbsp;&nbsp;
 ![1.5+](https://img.shields.io/badge/-1.5%2B%20years-0066CC?style=for-the-badge)&nbsp;&nbsp;&nbsp;
-![Open to work](https://img.shields.io/badge/-Open%20to%20work-darkgreen?style=for-the-badge)&nbsp;&nbsp;&nbsp;
+![Open for work](https://img.shields.io/badge/-Open%20for%20work-darkgreen?style=for-the-badge)&nbsp;&nbsp;&nbsp;
 
 
 ---
@@ -17,6 +16,7 @@
 
 ![Unity](https://img.shields.io/badge/-Unity-FFF?style=flat)&nbsp;&nbsp;&nbsp;
 ![UI Toolkit](https://img.shields.io/badge/-UI%20Toolkit-0066CC?style=flat)
+![Localization](https://img.shields.io/badge/-Localization-0066CC?style=flat)
 ![Behaviour Graph](https://img.shields.io/badge/-Behaviour%20Graph-0066CC?style=flat)
 ![Animator](https://img.shields.io/badge/-Animator-0066CC?style=flat)
 ![Visual Effect Graph](https://img.shields.io/badge/-Visual%20Effect%20Graph-0066CC?style=flat)
@@ -101,10 +101,11 @@
 ![VContainer](https://img.shields.io/badge/-VContainer-grey?style=flat)
 ![MessagePipe](https://img.shields.io/badge/-MessagePipe-grey?style=flat)
 ![Visual Effect Graph](https://img.shields.io/badge/-Unity%20Visual%20Effect%20Graph-grey?style=flat)
+![Localization](https://img.shields.io/badge/-Localization-grey?style=flat)
 
 ### Пет-проект
 
-*Игра, в которой необходимо найти выход из бункера, решив взаимосвязанные логические задачи.*
+*Игра, в которой необходимо найти выход из бункера, решив взаимосвязанные логические задачи. Локализация.*
 
 [![Посмотреть пример на YouTube](https://img.shields.io/badge/Посмотреть%20пример%20на%20YouTube-FF0000?style=social&logo=youtube)](https://youtu.be/fakev8FN6r4)
 &nbsp;&nbsp;&nbsp;
@@ -209,6 +210,44 @@
 <br />
 
 ---
+
+
+![Начало работы](https://img.shields.io/badge/Jul%202024%20--_%20Oct%202024-grey?style=for-the-badge)&nbsp;&nbsp;&nbsp;
+![Mobile](https://img.shields.io/badge/-Mobile-grey?style=for-the-badge)
+![Survival](https://img.shields.io/badge/-Survival-grey?style=for-the-badge)
+![3D TDP](https://img.shields.io/badge/-3D%20TDP-grey?style=for-the-badge)
+
+![C#](https://img.shields.io/badge/-C%23-grey?style=flat&logo=c-sharp)
+![Unity](https://img.shields.io/badge/-Unity-grey?style=flat&logo=unity)
+![UniTask](https://img.shields.io/badge/-UniTask-grey?style=flat)
+![R3](https://img.shields.io/badge/-R3-grey?style=flat)
+![UI Toolkit](https://img.shields.io/badge/-UI%20Toolkit-grey?style=flat)
+![VContainer](https://img.shields.io/badge/-VContainer-grey?style=flat)
+![DOTween](https://img.shields.io/badge/-DOTween-grey?style=flat)
+![Odin Inspector](https://img.shields.io/badge/-Odin%20Inspector-grey?style=flat)
+
+### Прототип
+
+*Прототип, в котором изучал технологии.*
+
+[![Посмотреть пример на YouTube](https://img.shields.io/badge/Посмотреть%20пример%20на%20YouTube-FF0000?style=social&logo=youtube)](https://youtu.be/wssskvuWqmM)
+&nbsp;&nbsp;&nbsp;
+[![Посмотреть исходный код](https://img.shields.io/badge/Посмотреть%20Исходный%20код-FFF?style=flat)](https://github.com/jrd-prime/BackwoodsLife)
+
+<br />
+
+<details>
+<summary><strong>🟢 Примеры выполненных/выполняемых задач</strong></summary>
+
+- Создание интерфейса с помощью UI Toolkit
+- Анимации на DOTween
+- Взаимодействия с условиями
+
+</details>
+<br />
+
+---
+
 
 ![Начало работы](https://img.shields.io/badge/NOV%202023%20--_%20Oct%202024-grey?style=for-the-badge)&nbsp;&nbsp;&nbsp;
 
