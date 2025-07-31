@@ -10,6 +10,8 @@
 <details>
     <summary><strong>🟢 РАЗВЕРНУТЬ</strong></summary>
 
+---
+
 ![Language](https://img.shields.io/badge/-Language-white?style=flat)&nbsp;&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-0066CC?style=flat&logo=c-sharp)
 
@@ -107,6 +109,8 @@
 *Игра, в которой необходимо найти выход из бункера, решив взаимосвязанные логические задачи.*
 
 [![Посмотреть пример на YouTube](https://img.shields.io/badge/Посмотреть%20пример%20на%20YouTube-FF0000?style=social&logo=youtube)](https://youtu.be/fakev8FN6r4)
+&nbsp;&nbsp;&nbsp;
+[![Посмотреть исходный код](https://img.shields.io/badge/Посмотреть%20Исходный%20код-FFF?style=flat)](https://github.com/jrd-prime/_Story)
 
 <br />
 
@@ -149,6 +153,8 @@
 *Прототип, в котором проверял идею для UI с таймерами, анимациями для сурвайвал игры с необходимостью пополнения энергии
 для выживания.*
 
+[![Посмотреть исходный код](https://img.shields.io/badge/Посмотреть%20Исходный%20код-FFF?style=flat)](https://github.com/jrd-prime/WaitingToBeRescued)
+
 <details>
   <summary><strong>🟢 Скриншот</strong></summary>
 
@@ -189,6 +195,9 @@
 [![Посмотреть пример на YouTube](https://img.shields.io/badge/Посмотреть%20пример%20на%20YouTube-FF0000?style=social&logo=youtube)](https://youtu.be/WOCNdLnPbJE)
 &nbsp;&nbsp;&nbsp;
 [![Скачать (APK)](https://img.shields.io/badge/Скачать%20(APK)-FFF?style=social&logo=android&labelColor=FFF)](https://github.com/jrd-prime/Test_Game_I/releases/download/Test-Game-I-ver.1.0.0-final/Test_Game_I_v1.0.0.apk)
+&nbsp;&nbsp;&nbsp;
+[![Посмотреть исходный код](https://img.shields.io/badge/Посмотреть%20Исходный%20код-FFF?style=flat)](https://github.com/jrd-prime/Test_Game_I)
+
 
 <br />
 
