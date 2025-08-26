@@ -107,7 +107,9 @@
 
 *Игра, в которой необходимо найти выход из бункера, решив взаимосвязанные логические задачи. Локализация.*
 
-[![Посмотреть пример на YouTube](https://img.shields.io/badge/Посмотреть%20пример%20на%20YouTube-FF0000?style=social&logo=youtube)](https://youtu.be/fakev8FN6r4)
+[![Пример на YouTube](https://img.shields.io/badge/Пример%20на%20YouTube-FF0000?style=social&logo=youtube)](https://youtu.be/_K71rByUuHo)
+&nbsp;&nbsp;&nbsp;
+[![Еще пример на YouTube](https://img.shields.io/badge/Еще%20пример%20на%20YouTube-FF0000?style=social&logo=youtube)](https://youtu.be/fakev8FN6r4)
 &nbsp;&nbsp;&nbsp;
 [![Посмотреть исходный код](https://img.shields.io/badge/Посмотреть%20Исходный%20код-FFF?style=flat)](https://github.com/jrd-prime/_Story)
 
