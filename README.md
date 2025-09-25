@@ -1,5 +1,5 @@
 ![UnityDev](https://img.shields.io/badge/-Unity--developer-0066CC?style=for-the-badge)&nbsp;&nbsp;&nbsp;
-![1.5+](https://img.shields.io/badge/-1.5%2B%20years-0066CC?style=for-the-badge)&nbsp;&nbsp;&nbsp;
+![2+](https://img.shields.io/badge/-2%2B%20years-0066CC?style=for-the-badge)&nbsp;&nbsp;&nbsp;
 ![Open to work](https://img.shields.io/badge/-Open%20to%20work-darkgreen?style=for-the-badge)&nbsp;&nbsp;&nbsp;
 
 
